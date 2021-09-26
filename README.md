@@ -11,10 +11,30 @@ This idea was brought just for the sole purpose of maximising the reading effici
 ⚙️Working of app:\
 Biblio-maniac has multiple buttons serving different purposes first comes the “filter through categories” wherein you can search the genres of the book that you are interested in and look for the particular books and save time. Another button “Timeline” comes with an option wherein you can look up for the book and meet the people alike you. Third tab is your “Profile”. This tab will show your collection of books you want to exchange to others. Last and fourth tab is “About App” which will provide user users with walkthrough and explain new updates to regular users.
 
-App Look:\
+📱App Look📱:
 1. Login Page
+
+
 ![login](https://user-images.githubusercontent.com/79373150/134819501-41ece8d1-3888-41fe-b505-a492c71e664d.jpeg)
+
+
 2. Signup Page
+
+
 ![Register](https://user-images.githubusercontent.com/79373150/134819515-5c5ec6cf-c03d-48e4-873a-92a328bbbc60.png)
+
+
 3. DashBoard Page
-4. ![dashboard](https://user-images.githubusercontent.com/79373150/134819533-d15489c8-d7cd-47e3-a0cb-03f92f0f095e.jpg)
+
+
+![dashboard](https://user-images.githubusercontent.com/79373150/134819533-d15489c8-d7cd-47e3-a0cb-03f92f0f095e.jpg)
+
+
+4. Find Books using Filters
+
+
+![findbook](https://user-images.githubusercontent.com/79373150/134819716-4542a9cf-20be-4b51-bd2f-a4bb33809215.jpeg)
+
+
+
+
