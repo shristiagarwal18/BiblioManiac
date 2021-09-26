@@ -18,52 +18,59 @@ This idea was brought just for the sole purpose of maximising the reading effici
 Biblio-maniac has multiple buttons serving different purposes first comes the “filter through categories” wherein you can search the genres of the book that you are interested in and look for the particular books and save time. Another button “Timeline” comes with an option wherein you can look up for the book and meet the people alike you. Third tab is your “Profile”. This tab will show your collection of books you want to exchange to others. Last and fourth tab is “About App” which will provide user users with walkthrough and explain new updates to regular users.
 
 ## App Screens
-
-  Login Page                |        Register Page         |       Dashboard
-:-------------------------:|:-------------------------:|:-------------------------:
-!![] ![login](https://user-images.githubusercontent.com/79373150/134821172-75476742-956d-491d-8a40-62fb593ee6ae.jpeg)![]|
-![]![Register](https://user-images.githubusercontent.com/79373150/134821184-f3d3dd0e-43d7-4e2c-a02c-069a1da39499.png)
-|<img width="379" alt="dashboard" src="https://user-images.githubusercontent.com/79373150/134821187-366ca5e6-9efd-46ab-bb24-81c42dcff6d2.png">|![]
+1. Login Page:
 
 
-
-  HomePage                |        HomePage         |       HomePage
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/2.png?alt=media&token=c82a1ed5-0baa-4eb2-913e-5b602fc13061)|![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/1.png?alt=media&token=a9735759-3f30-4120-9f70-20fabdf3ae45)|![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/aksnsha.png?alt=media&token=10259575-2001-43cf-80ad-28116f488c9a)
+![login](https://user-images.githubusercontent.com/79373150/134821372-0498514d-7006-4ae0-ba81-2649dce4ff3b.jpeg)
 
 
-  About Us                 |        Detail Screen      |       Menu
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/10.png?alt=media&token=cf08e5eb-c73b-4803-b45d-a69913d89944)|![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/4.png?alt=media&token=dfa5a8c6-e816-4535-ba66-68a000afcfa8)|![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/hamburger.png?alt=media&token=09d25d46-f024-4d2b-8b7a-3da73f7f4ce0)
- 
-  Splash Screen                     |        SignIn      |       SignUp
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/splashhh.png?alt=media&token=9890742d-7b4b-4617-9f03-4825e2806a11)|![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/12.png?alt=media&token=89c28d13-bd7c-40ce-883e-3aea7ff1c263)|![](https://firebasestorage.googleapis.com/v0/b/innoappchallenge.appspot.com/o/14.png?alt=media&token=dfb70925-aec6-4700-9d35-874742769481)
+2. Register Page:
 
-and many more..
 
-## Tech Stack Used
+![Register](https://user-images.githubusercontent.com/79373150/134821386-48189d88-f2bf-4c1a-bfa5-863494f74aab.png)
 
-Dart Programming Language,
-Flutter, and
-Firebase
 
+3. Dashboard:
+
+
+<img width="379" alt="dashboard" src="https://user-images.githubusercontent.com/79373150/134821396-53870a45-d104-4d0f-a58b-cfef40b17d73.png">
+
+
+4. Search Books with easy Filters:
+
+
+![findbook](https://user-images.githubusercontent.com/79373150/134821433-315c5068-f0b2-43c4-93f9-29bb7774e6ff.jpeg)
+
+
+5. About App and Latest Updates:
+
+
+![1](https://user-images.githubusercontent.com/79373150/134821449-376e588f-d9d0-4611-9415-2ea9383871cb.jpg)
+
+
+![2](https://user-images.githubusercontent.com/79373150/134821454-0491a138-dd5e-40cd-a7ae-18f6542e98de.jpg)
+
+
+![3](https://user-images.githubusercontent.com/79373150/134821467-f57ed37f-82c8-4fdd-aa3c-6088c4346493.jpg)
+
+
+![4](https://user-images.githubusercontent.com/79373150/134821476-0e1a5fee-075c-4f7f-a8a3-ebb23591a12c.jpg)
+
+
+![photo_2021-09-27_00-03-09](https://user-images.githubusercontent.com/79373150/134821526-8a8d01a7-10e3-469a-8060-3beee30622f5.jpg)
 
 ## Created & Maintained By
 
-[Akshat Rastogi](https://github.com/AkshatRastogi-1nC0re)
-Email: [E20CSE003@bennett.edu.in](mailto:E20CSE003@bennett.edu.in)
+[Drishti Rai](https://github.com/drishtirai)
+Email: [E20CSE495@bennett.edu.in](mailto:E20CSE495@bennett.edu.in)
 
-[Aryan Solanki](https://github.com/Aryan-Solanki)
-Email: [E20CSE157@bennett.edu.in](mailto:E20CSE157@bennett.edu.in)
+[Shristi Agarwal](https://github.com/shristiagarwal18)
+Email: [E20CSE480@bennett.edu.in](mailto:E20CSE480@bennett.edu.in)
 
-[Yash Sharma](https://github.com/yashsharma1702)
-Email: [E20CSE158@bennett.edu.in](mailto:E20CSE158@bennett.edu.in)
+[Sumran Talreja](https://github.com/sumrantalreja81)
+Email: [E20CSE517@bennett.edu.in](mailto:E20CSE517@bennett.edu.in)
 
 
 ## Visitors Count
 
-
->
-
-
+<img align="left" src = "https://profile-counter.glitch.me/BiblioManiac/count.svg" alt ="Loading">
