@@ -13,3 +13,8 @@ Biblio-maniac has multiple buttons serving different purposes first comes the â€
 
 App Look:\
 1. Login Page
+![login](https://user-images.githubusercontent.com/79373150/134819501-41ece8d1-3888-41fe-b505-a492c71e664d.jpeg)
+2. Signup Page
+![Register](https://user-images.githubusercontent.com/79373150/134819515-5c5ec6cf-c03d-48e4-873a-92a328bbbc60.png)
+3. DashBoard Page
+4. ![dashboard](https://user-images.githubusercontent.com/79373150/134819533-d15489c8-d7cd-47e3-a0cb-03f92f0f095e.jpg)
