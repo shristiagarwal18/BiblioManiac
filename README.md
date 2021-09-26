@@ -36,5 +36,20 @@ Biblio-maniac has multiple buttons serving different purposes first comes the â€
 ![findbook](https://user-images.githubusercontent.com/79373150/134819716-4542a9cf-20be-4b51-bd2f-a4bb33809215.jpeg)
 
 
+5. About App and It's Updates
 
+
+![1](https://user-images.githubusercontent.com/79373150/134819884-c82ff2ec-cc64-47bc-aad6-ba7217f8f065.jpg)
+
+
+![2](https://user-images.githubusercontent.com/79373150/134819902-88b9af61-adb2-49fc-9ca4-b49faba9f04c.jpg)
+
+
+![3](https://user-images.githubusercontent.com/79373150/134819922-2bda4899-5e18-40ca-b9be-cb32dcd4ed9e.jpg)
+
+
+![4](https://user-images.githubusercontent.com/79373150/134819934-7d46d46b-0d4c-4cb2-8853-f15b1b00b278.jpg)
+
+
+![5](https://user-images.githubusercontent.com/79373150/134819939-e3e6cb69-e560-415e-9e6d-77cf613d926b.jpg)
 
